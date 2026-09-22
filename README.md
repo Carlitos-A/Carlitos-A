@@ -1,10 +1,9 @@
 # Hola, soy Carlos 
 
-Soy **Ingeniero de software**.
-Actualmente estudio Informática y construyo proyectos propios mientras
-trabajo: sistemas que resuelven problemas reales, desde la integración con
-APIs bancarias hasta microservicios desplegados con autenticación
-empresarial.
+Soy **desarrollador de software**. Vengo de la electrónica, pero hoy mi
+foco es 100% la informática: estudio Ingeniería en Informática y construyo
+software todos los días — microservicios, APIs REST, automatizaciones y
+frontends que resuelven problemas reales.
 
 Me interesa el software **legible, mantenible y confiable** — el tipo de
 sistema donde las decisiones técnicas se pueden explicar y defender.
@@ -20,7 +19,7 @@ sistema donde las decisiones técnicas se pueden explicar y defender.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [SanosySalvos](https://github.com/Brissox/SanosySalvos) | Sistema de microservicios para gestión, geolocalización y detección de coincidencias de mascotas perdidas. Trabajo en equipo: ~49 commits míos en los microservicios | Java, Spring Boot, RabbitMQ, PostGIS, Docker \| ACADÉMICO |
+| [SanosySalvos](https://github.com/Brissox/SanosySalvos) | Sistema de microservicios para gestión, geolocalización y detección de coincidencias de mascotas perdidas. Trabajo en equipo: ~50 commits míos en los microservicios | Java, Spring Boot, RabbitMQ, PostGIS, Docker \| ACADÉMICO |
 | [Dryza](https://github.com/Carlitos-A/Dryza) | Sitio corporativo para paneles arquitectónicos anti-humedad | Astro, Tailwind, TypeScript |
 | [FrontPetly](https://github.com/Carlitos-A/FrontPetly) | Frontend del sistema Sanos y Salvos: reportes geolocalizados en mapa interactivo y cruce automático de coincidencias | React, Vite, Mapbox GL |
 | [FinanZAPP](https://github.com/Carlitos-A/FinanZAPP) | Automatización: lee correos bancarios, categoriza gastos y los registra en Google Sheets | Python, Gmail API, Sheets API |
@@ -29,6 +28,8 @@ sistema donde las decisiones técnicas se pueden explicar y defender.
 
 ## Trayectoria
 
+- **Desarrollador de software** — construyo sistemas completos: backend,
+  frontend, integraciones y despliegue.
 - **Técnico en electrónica** — experiencia laboral real en diagnóstico,
   sistemas y trabajo bajo presión.
 - **Estudiante de Informática** — formación formal en ingeniería de
