@@ -1,8 +1,8 @@
 # Hola, soy Carlos 
 
 Soy **desarrollador de software**. Vengo de la electrónica, pero hoy mi
-foco es 100% la informática: estudio Ingeniería en Informática y construyo
-software todos los días — microservicios, APIs REST, automatizaciones y
+foco es 100% la informática: estudio Ingeniería en Informática y aprendo construyendo
+software — microservicios, APIs REST, automatizaciones y
 frontends que resuelven problemas reales.
 
 Me interesa el software **legible, mantenible y confiable** — el tipo de
