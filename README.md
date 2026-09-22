@@ -20,11 +20,12 @@ sistema donde las decisiones técnicas se pueden explicar y defender.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [SanosySalvos](https://github.com/Brissox/SanosySalvos) | Sistema de microservicios para gestión, geolocalización y detección de coincidencias de mascotas perdidas. Trabajo en equipo: ~49 commits míos en los microservicios | Java, Spring Boot, RabbitMQ, PostGIS, Docker \| ACADÉMICO |
 | [Dryza](https://github.com/Carlitos-A/Dryza) | Sitio corporativo para paneles arquitectónicos anti-humedad | Astro, Tailwind, TypeScript |
-| [FrontPetly](https://github.com/Carlitos-A/FrontPetly) | Plataforma de mascotas perdidas/encontradas con API Gateway y microservicios | React, Vite |
+| [FrontPetly](https://github.com/Carlitos-A/FrontPetly) | Frontend del sistema Sanos y Salvos: reportes geolocalizados en mapa interactivo y cruce automático de coincidencias | React, Vite, Mapbox GL |
 | [FinanZAPP](https://github.com/Carlitos-A/FinanZAPP) | Automatización: lee correos bancarios, categoriza gastos y los registra en Google Sheets | Python, Gmail API, Sheets API |
-| [pedidos360-backend](https://github.com/Carlitos-A/pedidos360-backend) | Microservicios Spring Boot con autenticación JWT contra Microsoft Entra ID y autorización por roles | Java, Spring Boot, Entra ID| ACADEMICO
-| [pedidos360-frontend](https://github.com/Carlitos-A/pedidos360-frontend) | Frontend Angular que consume los microservicios vía API REST | Angular, TypeScript | ACADEMICO
+| [pedidos360-backend](https://github.com/Carlitos-A/pedidos360-backend) | Microservicios Spring Boot con autenticación JWT contra Microsoft Entra ID y autorización por roles | Java, Spring Boot, Entra ID\| ACADEMICO |
+| [pedidos360-frontend](https://github.com/Carlitos-A/pedidos360-frontend) | Frontend Angular que consume los microservicios vía API REST | Angular, TypeScript \| ACADEMICO |
 
 ## Trayectoria
 
