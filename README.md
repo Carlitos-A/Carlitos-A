@@ -37,5 +37,4 @@ sistema donde las decisiones técnicas se pueden explicar y defender.
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-camero-armenta)
 - 📧 carlosjosearmenia@gmail.com
